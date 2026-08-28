@@ -1,7 +1,12 @@
-# Git Practice Project
+# 🧮 Git Practice Project
 
 **Author:** Apu Paul
 
 ## About
-This project is a simple calculator built to practice Git and GitHub
-workflow — including commits, branching, and merging.
+This project demonstrates a Git & GitHub workflow through a simple
+calculator application, including multiple commits, feature branches,
+and merges.
+
+## Features
+- Addition
+- Subtraction
