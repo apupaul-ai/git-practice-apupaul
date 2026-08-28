@@ -10,3 +10,8 @@ and merges.
 ## Features
 - Addition
 - Subtraction
+- Multiplication
+- Division
+
+## Tech Stack
+Python 3
